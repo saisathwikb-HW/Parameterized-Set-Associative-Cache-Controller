@@ -1,6 +1,6 @@
 # Parameterized-Set-Associative-Cache-Controller-Write-Back-Write-Allocate
 
-A synthesizable, parameterized RTL implementation of a **set-associative cache controller** written in **Verilog HDL**. The controller supports configurable cache organization, LRU replacement, write-back, write-allocate, dirty block management, and memory stall handling. The design has been functionally verified using 11 independent testbenches and synthesized on a Xilinx Artix-7 FPGA using Vivado.
+The design has been functionally verified using 11 independent testbenches and synthesized, implemented, and timing-verified on a Xilinx Artix-7 FPGA using Xilinx Vivado 2025.2.
 
 ---
 
