@@ -119,7 +119,7 @@ The controller was verified using twelve standalone testbenches covering normal 
 
 **Verification Status**
 
-✔ All 12 testbenches passed successfully.
+✔ All 11 testbenches passed successfully.
 
 ---
 
@@ -196,7 +196,7 @@ RTL Design
 Functional Simulation
       │
       ▼
-Verification (12 Testbenches)
+Verification (11 Testbenches)
       │
       ▼
 Synthesis (Vivado)
