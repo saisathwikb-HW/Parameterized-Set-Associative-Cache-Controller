@@ -223,8 +223,6 @@ Timing Analysis
 - Configurable replacement policies
 - AXI4-Lite interface
 - Burst memory transactions
-- Performance counters
-- Cache hit/miss statistics
 - Separate Instruction and Data Cache
 - Multi-level cache hierarchy
 
