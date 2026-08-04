@@ -147,7 +147,7 @@ The controller was verified using twelve standalone testbenches covering normal 
 
 # Timing Results
 
-Clock Constraint
+### Target Clock
 
 - **100 MHz (10 ns)**
 
