@@ -68,18 +68,25 @@ Although the RTL is parameterized, the above configuration has been fully verifi
 Cache_Controller/
 │
 ├── RTL/
-│   ├── top_module.v
-│   ├── cache_controller.v
-│   ├── cache_fsm.v
-│   ├── cache_storage.v
-│   ├── data_memory.v
-│   └── ...
+│   ├── TOP_MODULE.v
+│   ├── CACHE_CONTROL_UNIT.v
+│   ├── FSM_UNIT.v
+│   ├── CACHE_MAPPING.v
+│   ├── DATA_MEMORY.v
+│   └── PBUF.v
 │
 ├── Testbenches/
-│   ├── TB_01_Read_Miss
-│   ├── TB_02_Read_Hit
-│   ├── ...
-│   ├── TB_12_Dirty_Eviction
+│   ├── tb_01_read_miss.v
+│   ├── tb_02_read_hit.v
+│   ├── tb_03_lru_replacement.v
+│   ├── tb_04_set_independence.v
+│   ├── tb_05_mixed_access.v
+│   ├── tb_06_lru_complete.v
+│   ├── tb_07_reset.v
+│   ├── tb_08_boundary_address.v
+│   ├── tb_09_write_hit.v
+│   ├── tb_10_write_miss_clean.v
+│   └── tb_11_dirty_eviction.v
 │
 ├── Reports/
 │   ├── Utilization Report
