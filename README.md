@@ -92,8 +92,8 @@ Cache_Controller/
 │   └── CONST.xdc
 │
 ├── Reports/
-│   ├── Utilization Report
-│   ├── Timing Report
+│   ├── top_module_utilization_synth.rpt
+│   ├── top_module_timing_summary_routed.rpt
 └── README.md
 ```
 
