@@ -220,7 +220,6 @@ Timing Analysis
 
 ## Future Enhancements
 
-- Block RAM based cache implementation
 - Configurable replacement policies
 - AXI4-Lite interface
 - Burst memory transactions
