@@ -1,4 +1,4 @@
-# Parameterized-Set-Associative-Cache-Controller-Write-Back-Write-Allocate
+# Parameterized Set-Associative Cache Controller
 
 The design has been functionally verified using 11 independent testbenches and synthesized, implemented, and timing-verified on a   Artix-7 FPGA using   Vivado 2025.2.
 
