@@ -232,6 +232,4 @@ Timing Analysis
 
 **Sathwik**
 
-M.Tech – VLSI & Microcontrollers
 
-RTL Design • Digital Design • Computer Architecture • Cache Design
