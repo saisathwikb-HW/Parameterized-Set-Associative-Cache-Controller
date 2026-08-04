@@ -84,7 +84,6 @@ Cache_Controller/
 ├── Reports/
 │   ├── Utilization Report
 │   ├── Timing Report
-│
 └── README.md
 ```
 
