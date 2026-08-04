@@ -1,6 +1,6 @@
 # Parameterized-Set-Associative-Cache-Controller-Write-Back-Write-Allocate
 
-The design has been functionally verified using 11 independent testbenches and synthesized, implemented, and timing-verified on a Xilinx Artix-7 FPGA using Xilinx Vivado 2025.2.
+The design has been functionally verified using 11 independent testbenches and synthesized, implemented, and timing-verified on a   Artix-7 FPGA using   Vivado 2025.2.
 
 ---
 
@@ -127,11 +127,11 @@ The controller was verified using 11 standalone testbenches covering normal oper
 
 **Tool**
 
-- Xilinx Vivado 2025.2
+-   Vivado 2025.2
 
 **Target Device**
 
-- Xilinx Artix-7 XC7A15T-CPG236-3
+-   Artix-7 XC7A15T-CPG236-3
 
 ### Resource Utilization
 
@@ -213,7 +213,7 @@ Timing Analysis
 ## Tools
 
 - Verilog HDL
-- Xilinx Vivado 2025.2
+-   Vivado 2025.2
 - XSIM Simulator
 
 ---
