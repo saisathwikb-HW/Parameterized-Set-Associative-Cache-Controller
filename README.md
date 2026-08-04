@@ -101,7 +101,7 @@ Cache_Controller/
 
 ## Functional Verification
 
-The controller was verified using twelve standalone testbenches covering normal operation and corner cases.
+The controller was verified using 11 standalone testbenches covering normal operation and corner cases.
 
 | Testbench | Description |
 |------------|-------------|
