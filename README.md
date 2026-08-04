@@ -104,10 +104,9 @@ The controller was verified using twelve standalone testbenches covering normal 
 | TB-06 | Complete LRU Verification |
 | TB-07 | Reset Verification |
 | TB-08 | Boundary Address Verification |
-| TB-09 | Random Regression |
-| TB-10 | Write Hit |
-| TB-11 | Write Miss (Clean Block) |
-| TB-12 | Dirty Block Eviction |
+| TB-09 | Write Hit |
+| TB-10 | Write Miss (Clean Block) |
+| TB-11 | Dirty Block Eviction |
 
 **Verification Status**
 
